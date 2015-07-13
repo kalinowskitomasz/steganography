@@ -2,7 +2,7 @@
 Author:Daniel Ramirez
 TFG: Steganography in TCP/IP protocols
 Main.py
-daniel.ramirezm@e-campus.uab.cat
+danielramirezmartin@gmail.com
 Development by using scapy a Python Framework
 '''
 
